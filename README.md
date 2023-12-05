@@ -9,7 +9,7 @@ This works as follows:
 
 *Compare today's date to key-value pairs
 
-*Request information from the Vonage API to access texting number
+*Request information from the Twilio API to access texting number
 
 *If current date matches, generate a happy birthday text with the person's name
 
