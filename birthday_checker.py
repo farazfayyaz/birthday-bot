@@ -7,7 +7,7 @@ birthdays = {
     "Mom" : "09/23",
     "Isha" : "12/18",
     "Insha" : "08/06",
-    "Faisal" : "12/23",
+    "Faisal" : "12/24",
     "Erin" : "07/20",
     "Andres" : "08/22",
     "Olu" : "04/28",
