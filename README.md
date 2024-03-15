@@ -21,3 +21,5 @@ Most reminder apps tend to get frustrating and I have a hard time sticking to on
 Text messages are easier to read, catch my attention, and keep me engaged. After figuring out how to send myself a text message, I just needed to create an algorithm to check the date.
 Every morning I wake up and check my phone for any missed messages from my sleep. Text messages are always the first thing I pay attention to.
 Seeing a birthday reminder text is more likely to encourage me to call or text my friend to let them know I remember their birthday!
+
+The only disadvantage is having to update the repository otherwise the event with stop running.
